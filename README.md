@@ -1,4 +1,5 @@
 # Simple E-Commerce Computer Shop
+![My Project Screenshot](screencapture-localhost-e-commerce-site-2026-03-13-16_17_57.png)
 
 ## Overview
 
